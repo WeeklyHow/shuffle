@@ -1,0 +1,22 @@
+{
+  "name": "@weeklyhow/shuffle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeeklyHow/shuffle"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "Bernard Polidario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeeklyHow/shuffle/issues"
+  },
+  "homepage": "https://github.com/WeeklyHow/shuffle#readme",
+  "description": ""
+}
